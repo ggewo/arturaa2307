@@ -3,6 +3,7 @@
 using namespace std;
 
 int main() {
+    cout << "Hello world!" << endl;
     string inptext;
     cout << "Введите текст: ";
     cin >> inptext; 
